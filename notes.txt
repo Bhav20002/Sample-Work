@@ -1,0 +1,30 @@
+Setting up parsers  for form
+
+Setting up ejs for ejs pages
+    Install ejs from npm
+    Setup ejs as a view engine
+
+Setting up public static files
+  
+  
+
+***Dynamic routing***
+  -->Dynamic routing(itself)
+     How to get data coming from frontend at backend route
+
+
+console.log(__dirname + '/public) -->> writting public means one more folder or file added in pur project .
+                |
+              It has the path of our file in which we are working
+
+sabse pahte browser par jaao
+rl likhiye apna• jo aapko• chahiye - and enter dabaaiye
+ab •us •url • route ko•create• kariye
+res bhej iye kuchh bhi
+
+
+app.get("/profile/:username" , function(req , res){
+    req.params.username   --->> req.params.jo bhi hai 
+
+
+
